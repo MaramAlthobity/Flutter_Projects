@@ -7,6 +7,7 @@ void main() => runApp(MaterialApp(
         'My First App',
       ),
       centerTitle: true,
+      
     ),
     body: Center(
       child: Text(
